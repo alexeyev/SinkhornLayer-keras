@@ -8,3 +8,21 @@ Requirements:
 * keras, scipy, numpy
 
 Bug reports, comments and enhancements are welcome.
+
+## Citation
+
+Not neccessary, but is greatly appreciated.
+
+```bibtex
+
+@misc{Alekseev2018sinkhornkeras,
+  author = {Alekseev~A.M.},
+  title = {Sinkhorn layer, Keras implementation.},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/alexeyev/SinkhornLayer-keras}},
+  commit = {the latest commit of the codebase you have used}
+}
+
+```
